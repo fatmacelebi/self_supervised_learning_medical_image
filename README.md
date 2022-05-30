@@ -9,12 +9,8 @@ We also share the pre-trained ResNet-101 models under pretrained_model folder. H
 # Citation
 Please use below to cite this paper if you find this repository useful or if you use pretrained models shared here in your research.
 
-
-
-
-
-
-
-
+Çelebi, F., Tasdemir, K., & Icoz, K., ...... (2022). IMPROVING MULTI-CLASS SENESCENT CELL SEGMENTATION USING SELF-SUPERVISED LEARNING ON BRIGHT-FIELD MICROSCOPY IMAGES
+Manuscript submitted for publication.
 
 # Results 
+![image](https://user-images.githubusercontent.com/97739552/170995870-3e72948e-1a71-4712-a0b0-a8a52dd26876.png)
