@@ -1,3 +1,7 @@
 # self_supervised_learning_medical_image
 
-We are sharing the codes that we used for self-supervised learning, and the codes that we used self-supervised pretrained models during transfer learning with Mask R-CNN on medical images. Self supervised pretraining is applied on unlabaled medical images and transfer learning is applied on labeled medical images. 
+We share the codes for a Self-Supervised Learning (SSL) based method to segment and quantify the density of cellular senescence which can perform efficiently even with the limited size of dataset which is acquired from bright-field microscopy. We incorporated A Simple Framework for Contrastive Learning of Visual Representations(SimCLR) into the conventional instance segmentation algorithm, Mask R-CNN. In the SSL part, we trained ResNet-101 backbone with our unlabeled dataset by using SimCLR. Then, we used it in the downstream task with a labeled, smaller dataset consisting of unstained cell images.
+
+We also share the pre-trained ResNet-101 models under pretrained_model folder. Here you can find and download different models which is pre-trained with different batch size or different approaches. These pretrained models can be used during transfer learning technique on medical images. All models have the same epoch which is 200 for our study. 
+
+# Citation
