@@ -5,3 +5,4 @@ noprojection_batch256_epoch200.h5 filter=lfs diff=lfs merge=lfs -text
 =======
 noprojection_batch256_epoch200_weightsNone.h5 filter=lfs diff=lfs merge=lfs -text
 >>>>>>> ffe4bd351514cfffd03d0b18651fc383720b5255
+noprojection_batch64_epoch200.h5 filter=lfs diff=lfs merge=lfs -text
