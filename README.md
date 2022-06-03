@@ -11,7 +11,7 @@ Besides, you can use the codes for your own custom dataset by giving the image f
 # Citation
 Please use below to cite this paper if you find this repository useful or if you use pretrained models shared here in your research.
 
-Çelebi, F., Tasdemir, K., & Icoz, K., ...... (2022). IMPROVING MULTI-CLASS SENESCENT CELL SEGMENTATION USING SELF-SUPERVISED LEARNING ON BRIGHT-FIELD MICROSCOPY IMAGES.
+Çelebi, F., Boyvat, D., Guner, S.A., Tasdemir, K., & Icoz, K.(2022). IMPROVING MULTI-CLASS SENESCENT CELL SEGMENTATION USING SELF-SUPERVISED LEARNING ON BRIGHT-FIELD MICROSCOPY IMAGES.
 
 Manuscript submitted for publication.
 
