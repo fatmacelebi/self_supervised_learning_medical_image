@@ -11,9 +11,7 @@ Besides, you can use the codes for your own custom dataset by giving the image f
 # Citation
 Please use below to cite this paper if you find this repository useful or if you use pretrained models shared here in your research.
 
-Çelebi, F., Boyvat, D., Guner, S.A., Tasdemir, K., & Icoz, K.(2022). IMPROVING MULTI-CLASS SENESCENT CELL SEGMENTATION USING SELF-SUPERVISED LEARNING ON BRIGHT-FIELD MICROSCOPY IMAGES.
-
-Manuscript submitted for publication.
+Çelebi F, Boyvat D, Ayaz-Guner S, Tasdemir K, Icoz K. Improved senescent cell segmentation on bright-field microscopy images exploiting representation level contrastive learning. Int J Imaging Syst Technol. 2024; 34(2):e23052. doi:10.1002/ima.23052
 
 # Results 
 ![image](https://user-images.githubusercontent.com/97739552/170995870-3e72948e-1a71-4712-a0b0-a8a52dd26876.png)
