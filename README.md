@@ -7,7 +7,9 @@ We share the codes for a Self-Supervised Learning (SSL) based method to segment 
 We also share the pre-trained ResNet-101 models under pretrained_model folder. Here you can find and download different models which is pre-trained with different batch size or different approaches. These pretrained models can be used during transfer learning technique on medical images. All models have the same epoch which is 200 for our study. 
 
 Besides, you can use the codes for your own custom dataset by giving the image folder path while unsupervised pretraining and then fine-tuning for Mask R-CNN.
-
+# Dataset
+You can find labeled dataset in the given link;
+https://drive.google.com/file/d/1t2WeFqSdKww4-mPKwsue5bns6lW0gv9N/view?usp=drive_link
 # Citation
 Please use below to cite this paper if you find this repository useful or if you use pretrained models shared here in your research.
 
